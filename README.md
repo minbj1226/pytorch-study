@@ -29,5 +29,5 @@ pytorch-basics/
   04_training_loop.ipynb
   05_model_train_eval.ipynb
   06_save_load_checkpoint.ipynb
-  07_classification_baseline.ipynb
+  07_Classify_cifar10.ipynb
   README.md
